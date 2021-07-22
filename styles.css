@@ -1,0 +1,13 @@
+body {
+    background-color: #efe4b0;
+}
+
+img {
+    border: 20px solid transparent;
+    border-radius: 600px;
+}
+
+img:hover {
+    border: 20px solid #ffb17a;
+    border-radius: 600px;
+}
