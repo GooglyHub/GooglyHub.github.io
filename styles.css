@@ -1,13 +1,14 @@
 body {
     background-color: #efe4b0;
+    margin: 20px;
 }
 
-img {
-    border: 20px solid transparent;
-    border-radius: 600px;
+/* img {
+    border: 10px solid transparent;
+    border-radius: 360px;
 }
 
 img:hover {
-    border: 20px solid #ffb17a;
-    border-radius: 600px;
-}
+    border: 10px solid #ffb17a;
+    border-radius: 360px;
+} */
