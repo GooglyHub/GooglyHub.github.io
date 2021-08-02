@@ -3,6 +3,31 @@ body {
     margin: 20px;
 }
 
+.btn {
+    padding: 40px;
+    font-family: 'Dekko', cursive;
+    font-size: 32px;
+    font-weight: bold;
+    color: #ffb17a;
+}
+
+.btn:hover {
+    color: #ff7f27;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
+
+form {
+    font-family: Verdana, sans-serif;
+    font-size: 24px;
+}
+
+div {
+    font-family: Verdana, sans-serif;
+}
 /* img {
     border: 10px solid transparent;
     border-radius: 360px;
